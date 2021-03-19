@@ -21,5 +21,5 @@ const isUpperCaseCheck = (word)=>{
     const result = word.charAt(0) === word.charAt(0).toUpperCase();
     console.log(result)
 }
-
+//Executing the function here
 isUpperCaseCheck("gh");
