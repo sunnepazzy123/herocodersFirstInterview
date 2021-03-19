@@ -1,0 +1,19 @@
+{
+  "name": "area-of-circle-and-uppercasecheck",
+  "version": "1.0.0",
+  "description": "function that calculate the area of a circle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnepazzy123/herocodersFirstInterview.git"
+  },
+  "author": "Sunday Odibo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnepazzy123/herocodersFirstInterview/issues"
+  },
+  "homepage": "https://github.com/sunnepazzy123/herocodersFirstInterview#readme"
+}

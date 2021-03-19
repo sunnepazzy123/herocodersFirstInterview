@@ -5,4 +5,4 @@ const isUpperCaseCheck = (word)=>{
     console.log(result)
 }
 //Executing the function here
-isUpperCaseCheck("gh");
+isUpperCaseCheck("gh");  

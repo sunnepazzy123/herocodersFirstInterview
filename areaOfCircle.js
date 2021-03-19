@@ -8,4 +8,4 @@ const areaOfCircle = (rad)=>{
 }
 
 //Executing the function here
-areaOfCircle(5371);
+areaOfCircle(5371);    //radius is a variable
