@@ -1,6 +1,6 @@
 {
   "name": "area-of-circle-and-uppercasecheck",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "function that calculate the area of a circle",
   "main": "index.js",
   "scripts": {
