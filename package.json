@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sunnepazzy123/herocodersFirstInterview/issues"
   },
-  "homepage": "https://github.com/sunnepazzy123/herocodersFirstInterview#readme"
+  "homepage": "https://github.com/sunnepazzy123/herocodersFirstInterview#readme",
+  "dependencies": {
+    "area-of-circle-and-uppercasecheck": "^1.0.1"
+  }
 }
